@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-14T09:45:51.774Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Buh-plXWFnVN_E3trvun" version="12.2.6" type="github" pages="7">
+<mxfile modified="2019-11-14T14:58:07.581Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Y1nE3YvDR9qZaiAW6Gau" version="12.2.6" type="github" pages="7">
   <diagram id="wLWgB8oCu5mPohRzCKuk" name="系统架构图">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3g7rs8XaV-dQ0H0I2YBZ" name="系统模块划分图">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vye1kwi9wD9lyqn_AnTP-0"/>
         <mxCell id="vye1kwi9wD9lyqn_AnTP-1" parent="vye1kwi9wD9lyqn_AnTP-0"/>
@@ -350,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QObYFX42yR3XmnQFGiFy" name="对账单列表活动图">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8iSQsT3i5JUyxaiXaDEv-0"/>
         <mxCell id="8iSQsT3i5JUyxaiXaDEv-1" parent="8iSQsT3i5JUyxaiXaDEv-0"/>
@@ -537,7 +537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K3NPSjwJm8mhcRiSAiqx" name="形式发票列表">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4DBF0N9t6yQPQIzITtP5-0"/>
         <mxCell id="4DBF0N9t6yQPQIzITtP5-1" parent="4DBF0N9t6yQPQIzITtP5-0"/>
@@ -693,14 +693,14 @@
         <mxCell id="qaxIu9d1_ivNiw48pQWp-5" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" parent="4DBF0N9t6yQPQIzITtP5-1" vertex="1">
           <mxGeometry x="419" y="415" width="42" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="UrCBD5wnrbeIZSQ7mLb2-0" value="是" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="4DBF0N9t6yQPQIzITtP5-1">
+        <mxCell id="UrCBD5wnrbeIZSQ7mLb2-0" value="是" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="4DBF0N9t6yQPQIzITtP5-1" vertex="1">
           <mxGeometry x="569" y="380" width="30" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="osHJ2AIatO6RV-2rAdgC" name="形式发票草稿">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q7ne6AP4tz_-ELuacfct-0"/>
         <mxCell id="q7ne6AP4tz_-ELuacfct-1" parent="q7ne6AP4tz_-ELuacfct-0"/>
@@ -911,7 +911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7NyBAbIa3HqfMHfVb0Xq" name="形式发票预览">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6ck5ZuqBizO2XTnhr9Wt-0"/>
         <mxCell id="6ck5ZuqBizO2XTnhr9Wt-1" parent="6ck5ZuqBizO2XTnhr9Wt-0"/>
@@ -957,7 +957,7 @@
         <mxCell id="_xq3LGGYECxJm8sj0OJ2-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;渲染文档&lt;br&gt;已作废组件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="6ck5ZuqBizO2XTnhr9Wt-1" vertex="1">
           <mxGeometry x="130" y="360" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="_xq3LGGYECxJm8sj0OJ2-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;已接受&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6ck5ZuqBizO2XTnhr9Wt-1" vertex="1">
+        <mxCell id="_xq3LGGYECxJm8sj0OJ2-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;已作废&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6ck5ZuqBizO2XTnhr9Wt-1" vertex="1">
           <mxGeometry x="260" y="290" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="_j-JpeazoExV5bAJimLr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6ck5ZuqBizO2XTnhr9Wt-1" source="_xq3LGGYECxJm8sj0OJ2-11" target="_j-JpeazoExV5bAJimLr-0" edge="1">
