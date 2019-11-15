@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-14T14:58:07.581Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Y1nE3YvDR9qZaiAW6Gau" version="12.2.6" type="github" pages="7">
+<mxfile modified="2019-11-15T15:20:28.595Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="aMCGrL5m_ye1uv9cB3Kx" version="12.2.6" type="github" pages="7">
   <diagram id="wLWgB8oCu5mPohRzCKuk" name="系统架构图">
     <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3g7rs8XaV-dQ0H0I2YBZ" name="系统模块划分图">
-    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vye1kwi9wD9lyqn_AnTP-0"/>
         <mxCell id="vye1kwi9wD9lyqn_AnTP-1" parent="vye1kwi9wD9lyqn_AnTP-0"/>
@@ -537,7 +537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K3NPSjwJm8mhcRiSAiqx" name="形式发票列表">
-    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4DBF0N9t6yQPQIzITtP5-0"/>
         <mxCell id="4DBF0N9t6yQPQIzITtP5-1" parent="4DBF0N9t6yQPQIzITtP5-0"/>
@@ -911,7 +911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7NyBAbIa3HqfMHfVb0Xq" name="形式发票预览">
-    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="1250" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6ck5ZuqBizO2XTnhr9Wt-0"/>
         <mxCell id="6ck5ZuqBizO2XTnhr9Wt-1" parent="6ck5ZuqBizO2XTnhr9Wt-0"/>
@@ -1094,7 +1094,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gC3p6zmcqVg3YaKq3j7N" name="配置模块">
-    <mxGraphModel dx="2066" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ASk81csLXPlOufmrb-e4-0"/>
         <mxCell id="ASk81csLXPlOufmrb-e4-1" parent="ASk81csLXPlOufmrb-e4-0"/>
